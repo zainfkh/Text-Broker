@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Text-Broker.git/static/css/main.abd64e84.css",
+    "main.js": "/Text-Broker.git/static/js/main.9141e58e.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Text-Broker.git/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/Text-Broker.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Text-Broker.git/index.html",
+    "main.abd64e84.css.map": "/Text-Broker.git/static/css/main.abd64e84.css.map",
+    "main.9141e58e.js.map": "/Text-Broker.git/static/js/main.9141e58e.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Text-Broker.git/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.9141e58e.js"
+  ]
+}
